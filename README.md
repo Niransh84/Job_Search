@@ -33,4 +33,4 @@ The report is refreshed weekday mornings around 8 AM Central. `job_search_R.html
 
 No personal contact information is included.
 
-Last published: 2026-11-11
+Last published: 2026-11-11 20:45:46 UTC
